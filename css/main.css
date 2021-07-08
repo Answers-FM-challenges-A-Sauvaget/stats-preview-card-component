@@ -107,7 +107,7 @@ h6 {
   display: block;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 800px) {
   body {
     text-align: center;
   }
