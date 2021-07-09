@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/a-sauvaget/stats-preview-card-component)
-- Live Site URL: [Add live site URL here](https://a-sauvaget.github.io/stats-preview-card-component/)
+- Solution URL: https://github.com/a-sauvaget/stats-preview-card-component
+- Live Site URL: https://a-sauvaget.github.io/stats-preview-card-component
 
 ## My process
 
